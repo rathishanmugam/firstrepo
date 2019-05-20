@@ -1,5 +1,9 @@
 
-#hello git
+# hello git
+## first project
+- html
+- css
+- javascript
 
 
 
