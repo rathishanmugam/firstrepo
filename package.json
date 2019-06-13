@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "connect": "^3.7.0",
+    "connect-livereload": "~0.3.2",
+    "gulp": "^4.0.2",
+    "gulp-livereload": "~0.1.1",
+    "gulp-traceur": "^0.18.0",
+    "jasmine": "^3.4.0",
+    "tiny-lr": "^1.1.1"
+  }
+}
